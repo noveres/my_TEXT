@@ -505,10 +505,12 @@ img {
   height: 40px;
   line-height: 40px;
   width: 200px;
-
+  font-weight: bold;
+  font-size: 1.15em;
+  letter-spacing: 0.2em;
   color: var(--headerFont);
   border-radius: 50px;
-  background: linear-gradient(-45deg, var(--mainColor) 50%, var(--mainColor) 70%);
+  background: linear-gradient(-45deg, #02162b 50%, #eb590c 70%);
   background-size: 600% 100%;
   animation: shine 5s infinite;
 }

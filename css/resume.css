@@ -178,6 +178,13 @@
      /* background-color: aqua; */
    }
 
+   .carcontent p {
+
+     line-height: 1.6;
+     /* 調整行高，值可以根據需要改變 */
+
+   }
+
    .li3-box .li3box-pro {
      position: relative;
    }
